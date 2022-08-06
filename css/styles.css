@@ -1,7 +1,14 @@
 Body {
-background-color: bisque;
+text-align: center;
+background-color: black;
 border-color: black;
 }
 H1,H2,H3{
 background-color: grey;
+}
+img {
+    border: 10px solid navy
+}
+Ul {
+ text-align: left;
 }
